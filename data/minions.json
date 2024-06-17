@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Grungus",
+    "description": "A mushroom...",
+    "tier": 1,
+    "attack": 1,
+    "health": 1
+  },
+  {
+    "name": "Boaris",
+    "description": "A boar...",
+    "tier": 1,
+    "attack": 2,
+    "health": 2
+  },
+  {
+    "name": "Sluchette",
+    "description": "A slug...",
+    "tier": 2,
+    "attack": 3,
+    "health": 3
+  }
+]
